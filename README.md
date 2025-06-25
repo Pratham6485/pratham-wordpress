@@ -1,2 +1,0 @@
-# pratham-wordpress
-wordpress project
